@@ -1,0 +1,14 @@
+# Normaliza fins de linha no repositório (evita avisos LF/CRLF entre Windows e outros sistemas)
+* text=auto
+*.py text
+*.md text
+*.yaml text
+*.csv text
+*.json text
+*.txt text
+*.png binary
+*.docx binary
+*.pdf binary
+# Brutos: payloads originais guardados byte a byte, sem normalização de fim de linha
+# (o git detecta dados/brutos/idh_20260914.csv como binário; a regra *.csv text o forçaria)
+dados/brutos/** -text

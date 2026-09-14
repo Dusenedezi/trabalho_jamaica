@@ -1,0 +1,85 @@
+=== RESUMO POR SÉRIE ===
+                      id  obs  ano_ini  ano_fim  paises  JAM_ult_ano  JAM_ult_valor          min              max                                     unidade
+                     idh  238     1990     2023       7         2023         0.7200       0.5890           0.8390                                  Índice 0–1
+              pib_pc_ppp  288     1990     2025       8         2025    11,357.9156   7,246.2467      39,248.6571       US$ internacionais constantes de 2021
+         pib_por_ocupado  280     1991     2025       8         2025    20,658.7569  20,543.4637      81,808.2779 US$ internacionais constantes de 2021 (PPP)
+                     hci   22     2010     2020       6         2020         0.5350       0.4920           0.6286                                  Índice 0–1
+       energia_importada  209     1990     2023       7         2022       112.5753    -308.7716         203.1348                                           %
+          divida_publica   77     1990     2024       7         2020        97.8664       5.4039         232.8322                                    % do PIB
+         wgi_rule_of_law  182     1996     2024       7         2024        -0.0777      -1.0512           1.5123       Escore padronizado, aprox. −2,5 a 2,5
+        solar_capacidade  155     2000     2025       7         2025       116.5730       0.0100       2,083.0570                                          MW
+     solar_geracao_share  178     2000     2025       7         2024         3.0490       0.0000           9.9610                                % da geração
+renovaveis_geracao_share  178     2000     2025       7         2024        12.6020       0.0000         109.8630                                % da geração
+     tarifa_eletricidade   11     2015     2025       1         2025         0.3200       0.2200           0.3600                                 US$ por kWh
+  armazenamento_projetos    4     2019     2026       1         2026       220.0000      16.6000         528.0000                      MW e MWh (valor = MWh)
+               populacao  528     1960     2025       8         2025 2,837,077.0000 230,893.0000 666,592,570.0000                                     Pessoas
+          cambio_jmd_usd  462     1960     2025       7         2025       159.0964       0.7143       4,325.9550                         Moeda local por US$
+
+=== SINALIZAÇÕES ===
+idh: comparadores ausentes ['LCN']
+hci: comparadores ausentes ['BRB', 'LCN']
+energia_importada: comparadores ausentes ['BRB']
+energia_importada: JAM cobre 1990–2022 sem 2005, 2006, 2007
+energia_importada: valores negativos (exportadores líquidos de energia) em ['COL', 'LCN', 'TTO']
+divida_publica: comparadores ausentes ['PAN']
+divida_publica: BRB termina em 2016 (série vai até 2024)
+divida_publica: COL cobre 1998–2024 sem 2001, 2002, 2004, 2005, 2006, 2007
+divida_publica: CRI termina em 2001 (série vai até 2024)
+divida_publica: DOM cobre 1996–1999 sem 1998
+divida_publica: DOM termina em 1999 (série vai até 2024)
+divida_publica: JAM cobre 1990–2020 sem 2018
+divida_publica: JAM termina em 2020 (série vai até 2024)
+divida_publica: LCN termina em 2021 (série vai até 2024)
+divida_publica: TTO termina em 2007 (série vai até 2024)
+wgi_rule_of_law: comparadores ausentes ['LCN']
+wgi_rule_of_law: BRB cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: COL cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: CRI cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: DOM cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: JAM cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: PAN cobre 1996–2024 sem 1997, 1999, 2001
+wgi_rule_of_law: TTO cobre 1996–2024 sem 1997, 1999, 2001
+solar_capacidade: comparadores ausentes ['LCN']
+solar_geracao_share: comparadores ausentes ['LCN']
+renovaveis_geracao_share: comparadores ausentes ['LCN']
+renovaveis_geracao_share: fora de 0–100%
+cambio_jmd_usd: comparadores ausentes ['LCN']
+
+=== CONFERÊNCIA ALEATÓRIA CONTRA OS BRUTOS (seed 20260914) ===
+wgi_rule_of_law            JAM 2014: processado=-0.1823274             bruto=-0.1823274             arquivo=wgi_rule_of_law_20260914.json  -> OK
+armazenamento_projetos     JAM 2026: processado=171.5                  bruto=171.5                  arquivo=armazenamento_projetos_20260914.csv  -> OK
+renovaveis_geracao_share   PAN 2018: processado=77.768                 bruto=77.768                 arquivo=renovaveis_geracao_share_20260914.csv  -> OK
+
+=== fontes.csv ===
+                      id periodo_utilizado                                                                                                                       codigo_serie                       data_acesso
+                     idh         1990–2023                                                                                                                                hdi                        2026-09-14
+              pib_pc_ppp         1990–2025                                                                                                                  NY.GDP.PCAP.PP.KD                        2026-09-14
+         pib_por_ocupado         1991–2025                                                                                                                  SL.GDP.PCAP.EM.KD                        2026-09-14
+                     hci         2010–2020                                                                                                                        HD.HCI.OVRL                        2026-09-14
+       energia_importada         1990–2023                                                                                                                     EG.IMP.CONS.ZS                        2026-09-14
+          divida_publica         1990–2024                                                                                                                  GC.DOD.TOTL.GD.ZS                        2026-09-14
+         wgi_rule_of_law         1996–2024                                                                                                                     GOV_WGI_RL.EST                        2026-09-14
+        solar_capacidade         2000–2025                                                                     OWID solar__total_gw (IRENA: Solar energy, on-grid + off-grid)                        2026-09-14
+     solar_geracao_share         2000–2025                                                                       Electricity source = Solar; coluna 'Share of generation (%)'                        2026-09-14
+renovaveis_geracao_share         2000–2025 Electricity source = Renewables (agregado: hidro, eólica, solar, bioenergia e outras renováveis); coluna 'Share of generation (%)'                        2026-09-14
+     tarifa_eletricidade         2015–2025                                                                                                                                  — ver coluna data_acesso do arquivo
+  armazenamento_projetos         2019–2026                                                                                                                                  — ver coluna data_acesso do arquivo
+               populacao         1960–2025                                                                                                                        SP.POP.TOTL                        2026-09-14
+          cambio_jmd_usd         1960–2025                                                                                                                        PA.NUS.FCRF                        2026-09-14
+
+=== log_extracao.csv ===
+                      id status  erro     data
+                     idh     ok   NaN 20260914
+              pib_pc_ppp     ok   NaN 20260914
+         pib_por_ocupado     ok   NaN 20260914
+                     hci     ok   NaN 20260914
+       energia_importada     ok   NaN 20260914
+          divida_publica     ok   NaN 20260914
+         wgi_rule_of_law     ok   NaN 20260914
+        solar_capacidade     ok   NaN 20260914
+     solar_geracao_share     ok   NaN 20260914
+renovaveis_geracao_share     ok   NaN 20260914
+     tarifa_eletricidade     ok   NaN 20260914
+  armazenamento_projetos     ok   NaN 20260914
+               populacao     ok   NaN 20260914
+          cambio_jmd_usd     ok   NaN 20260914

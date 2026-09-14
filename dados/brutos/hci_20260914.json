@@ -1,0 +1,1234 @@
+[
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2020",
+  "value": 0.60433030128479,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2018",
+  "value": 0.598653852939606,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2017",
+  "value": 0.593,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2010",
+  "value": 0.580249488353729,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2020",
+  "value": 0.628635048866272,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2018",
+  "value": 0.603258788585663,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2017",
+  "value": 0.619,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2010",
+  "value": 0.597758889198303,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2020",
+  "value": 0.502766907215118,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2018",
+  "value": 0.506880283355713,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2017",
+  "value": 0.492,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2020",
+  "value": 0.534977912902832,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2018",
+  "value": 0.539271950721741,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2017",
+  "value": 0.544,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2020",
+  "value": 0.501601994037628,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2018",
+  "value": 0.513944387435913,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2017",
+  "value": 0.532,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2010",
+  "value": 0.513181924819946,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2020",
+  "value": 0.603487730026245,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2018",
+  "value": 0.602326810359955,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2017",
+  "value": 0.613,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "HD.HCI.OVRL",
+   "value": "Human Capital Index (HCI) (scale 0-1)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2010",
+  "value": 0.550520300865173,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ }
+]

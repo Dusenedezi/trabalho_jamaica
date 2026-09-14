@@ -1,0 +1,2914 @@
+[
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2024",
+  "value": 0.7277751,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2023",
+  "value": 0.7343145,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2022",
+  "value": 0.7169373,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2021",
+  "value": 0.7010659,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2020",
+  "value": 0.7048546,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2019",
+  "value": 0.7845979,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2018",
+  "value": 0.8225751,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2017",
+  "value": 0.9602192,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2016",
+  "value": 1.0487063,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2015",
+  "value": 1.0869039,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2014",
+  "value": 1.0585348,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2013",
+  "value": 1.1305025,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2012",
+  "value": 1.1685047,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2011",
+  "value": 1.2130279,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2010",
+  "value": 1.1937698,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2009",
+  "value": 1.1713505,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2008",
+  "value": 1.4920796,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2007",
+  "value": 1.4525439,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2006",
+  "value": 1.373603,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2005",
+  "value": 1.5123336,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2004",
+  "value": 1.3795153,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2003",
+  "value": 1.4984726,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2002",
+  "value": 1.5000349,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2000",
+  "value": 1.4963631,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1998",
+  "value": 1.1357849,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1996",
+  "value": 0.7767277,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2024",
+  "value": -0.5597434,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2023",
+  "value": -0.5648803,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2022",
+  "value": -0.5296476,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2021",
+  "value": -0.506983,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2020",
+  "value": -0.482495599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2019",
+  "value": -0.452757099999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2018",
+  "value": -0.422010899999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2017",
+  "value": -0.3653829,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2016",
+  "value": -0.3488186,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2015",
+  "value": -0.3995338,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2014",
+  "value": -0.4114652,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2013",
+  "value": -0.483686599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2012",
+  "value": -0.447664299999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2011",
+  "value": -0.3902442,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2010",
+  "value": -0.360987499999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2009",
+  "value": -0.4629502,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2008",
+  "value": -0.4087231,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2007",
+  "value": -0.439477699999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2006",
+  "value": -0.552814399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2005",
+  "value": -0.5597229,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2004",
+  "value": -0.5322335,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2003",
+  "value": -0.7606776,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2002",
+  "value": -0.807042599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2000",
+  "value": -1.051231,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1998",
+  "value": -0.797549,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1996",
+  "value": -0.8696204,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2024",
+  "value": 0.6167412,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2023",
+  "value": 0.6431263,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2022",
+  "value": 0.6675589,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2021",
+  "value": 0.6104539,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2020",
+  "value": 0.6316985,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2019",
+  "value": 0.5808637,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2018",
+  "value": 0.518591,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2017",
+  "value": 0.54111,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2016",
+  "value": 0.5143501,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2015",
+  "value": 0.5212516,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2014",
+  "value": 0.5463937,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2013",
+  "value": 0.4576895,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2012",
+  "value": 0.4471085,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2011",
+  "value": 0.4626021,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2010",
+  "value": 0.6499221,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2009",
+  "value": 0.6269671,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2008",
+  "value": 0.5507059,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2007",
+  "value": 0.5276824,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2006",
+  "value": 0.5369891,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2005",
+  "value": 0.6186681,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2004",
+  "value": 0.5530801,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2003",
+  "value": 0.5568333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2002",
+  "value": 0.600659,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2000",
+  "value": 0.4845927,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1998",
+  "value": 0.4535106,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1996",
+  "value": 0.5214281,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2024",
+  "value": -0.1822626,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2023",
+  "value": -0.241159899999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2022",
+  "value": -0.2774196,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2021",
+  "value": -0.3243436,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2020",
+  "value": -0.3813297,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2019",
+  "value": -0.4801078,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2018",
+  "value": -0.5483264,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2017",
+  "value": -0.5595468,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2016",
+  "value": -0.5326099,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2015",
+  "value": -0.5344359,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2014",
+  "value": -0.413435,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2013",
+  "value": -0.5420109,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2012",
+  "value": -0.5862733,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2011",
+  "value": -0.6041963,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2010",
+  "value": -0.658293999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2009",
+  "value": -0.6085762,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2008",
+  "value": -0.5682262,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2007",
+  "value": -0.477022599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2006",
+  "value": -0.4579742,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2005",
+  "value": -0.5602289,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2004",
+  "value": -0.6325628,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2003",
+  "value": -0.7899149,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2002",
+  "value": -0.7124813,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2000",
+  "value": -0.7152811,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1998",
+  "value": -0.667573299999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1996",
+  "value": -0.5997454,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2024",
+  "value": -0.0776697,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2023",
+  "value": -0.0768587999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2022",
+  "value": -0.0687388999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2021",
+  "value": -0.0742917999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2020",
+  "value": -0.103995499999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2019",
+  "value": -0.1704977,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2018",
+  "value": -0.1409645,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2017",
+  "value": -0.0899914,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2016",
+  "value": -0.1131152,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2015",
+  "value": -0.1394095,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2014",
+  "value": -0.1823274,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2013",
+  "value": -0.2763074,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2012",
+  "value": -0.356012799999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2011",
+  "value": -0.2893569,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2010",
+  "value": -0.3988235,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2009",
+  "value": -0.309641599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2008",
+  "value": -0.1644824,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2007",
+  "value": -0.1580034,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2006",
+  "value": -0.246561999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2005",
+  "value": -0.199788499999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2004",
+  "value": -0.2189875,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2003",
+  "value": -0.305149499999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2002",
+  "value": -0.293559,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2000",
+  "value": -0.489751,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1998",
+  "value": -0.1682579,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1996",
+  "value": -0.1660905,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2024",
+  "value": -0.2634275,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2023",
+  "value": -0.227944099999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2022",
+  "value": -0.214656799999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2021",
+  "value": -0.230409999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2020",
+  "value": -0.2397538,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2019",
+  "value": -0.2786019,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2018",
+  "value": -0.2517367,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2017",
+  "value": -0.159659599999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2016",
+  "value": -0.1355383,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2015",
+  "value": -0.1702773,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2014",
+  "value": -0.1423563,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2013",
+  "value": -0.2985413,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2012",
+  "value": -0.2767365,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2011",
+  "value": -0.0333011999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2010",
+  "value": -0.124747799999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2009",
+  "value": -0.1123227,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2008",
+  "value": -0.0807623,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2007",
+  "value": -0.0240050999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2006",
+  "value": -0.0614406,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2005",
+  "value": -0.0773161,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2004",
+  "value": -0.0126133999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2003",
+  "value": -0.0870775999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2002",
+  "value": -0.090547,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2000",
+  "value": -0.2963865,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1998",
+  "value": -0.214869099999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1996",
+  "value": -0.2148676,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2024",
+  "value": -0.371533,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2023",
+  "value": -0.315203499999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2022",
+  "value": -0.2477989,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2021",
+  "value": -0.1513775,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2020",
+  "value": -0.1617074,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2019",
+  "value": -0.137867699999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2018",
+  "value": -0.1219214,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2017",
+  "value": -0.00602609999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2016",
+  "value": -0.0255922,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2015",
+  "value": 0.0080118,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2014",
+  "value": 0.0193675,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2013",
+  "value": -0.1457194,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2012",
+  "value": -0.0707812999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2011",
+  "value": -0.1046704,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2010",
+  "value": -0.0729938,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2009",
+  "value": -0.0444168,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2008",
+  "value": -0.0296308,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2007",
+  "value": 0.0428116,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2006",
+  "value": -0.0399353999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2005",
+  "value": 0.19417,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2004",
+  "value": 0.1694897,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2003",
+  "value": 0.2751232,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2002",
+  "value": 0.4586587,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2000",
+  "value": 0.4359822,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1998",
+  "value": 0.7097717,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GOV_WGI_RL.EST",
+   "value": "Rule of Law - Governance estimate (approx. -2.5 to +2.5)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1996",
+  "value": 0.7552135,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ }
+]

@@ -1,0 +1,8450 @@
+[
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2025",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2024",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2023",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2022",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2021",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2020",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2019",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2018",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2017",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2016",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2015",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2014",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2013",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2012",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2011",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2010",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2009",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2008",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2007",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2006",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2005",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2004",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2003",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2002",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2001",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2000",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1999",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1998",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1997",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1996",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1995",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1994",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1993",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1992",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1991",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1990",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1989",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1988",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1987",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1986",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1985",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1984",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1983",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1982",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1981",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1980",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1979",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1978",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1977",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1976",
+  "value": 2,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1975",
+  "value": 2.0188665976,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1974",
+  "value": 2.05323091078878,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1973",
+  "value": 1.95922053743668,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1972",
+  "value": 1.92128071035725,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1971",
+  "value": 1.97487615196877,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1970",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1969",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1968",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1967",
+  "value": 1.73809916726191,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1966",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1965",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1964",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1963",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1962",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1961",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1960",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2025",
+  "value": 4053.13583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2024",
+  "value": 4074.43416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2023",
+  "value": 4325.955,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2022",
+  "value": 4256.19416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2021",
+  "value": 3744.24416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2020",
+  "value": 3693.27583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2019",
+  "value": 3281.62219381788,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2018",
+  "value": 2955.70396997842,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2017",
+  "value": 2951.48691120161,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2016",
+  "value": 3055.255,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2015",
+  "value": 2741.78166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2014",
+  "value": 2001.105,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2013",
+  "value": 1868.895,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2012",
+  "value": 1798.01166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2011",
+  "value": 1848.01666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2010",
+  "value": 1898.9975,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2009",
+  "value": 2157.59833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2008",
+  "value": 1965.1375,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2007",
+  "value": 2077.81095833333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2006",
+  "value": 2358.59460526316,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2005",
+  "value": 2321.13166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2004",
+  "value": 2628.36833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2003",
+  "value": 2877.54333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2002",
+  "value": 2504.68083333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2001",
+  "value": 2299.89333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2000",
+  "value": 2087.91833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1999",
+  "value": 1756.68583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1998",
+  "value": 1426.42416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1997",
+  "value": 1141.11666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1996",
+  "value": 1036.6225,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1995",
+  "value": 912.895,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1994",
+  "value": 826.54,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1993",
+  "value": 786.346666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1992",
+  "value": 680.385833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1991",
+  "value": 627.1525,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1990",
+  "value": 502.26,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1989",
+  "value": 382.566666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1988",
+  "value": 299.173333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1987",
+  "value": 242.606666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1986",
+  "value": 194.260833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1985",
+  "value": 142.311666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1984",
+  "value": 100.8175,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1983",
+  "value": 78.8575,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1982",
+  "value": 64.0858333333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1981",
+  "value": 54.4891666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1980",
+  "value": 47.2783333333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1979",
+  "value": 42.5483333333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1978",
+  "value": 39.095,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1977",
+  "value": 36.7741666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1976",
+  "value": 34.695,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1975",
+  "value": 30.9275,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1974",
+  "value": 26.0616666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1973",
+  "value": 23.5716666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1972",
+  "value": 21.8666666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1971",
+  "value": 19.9333333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1970",
+  "value": 18.4441666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1969",
+  "value": 17.3216666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1968",
+  "value": 16.2916666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1967",
+  "value": 14.5066666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1966",
+  "value": 13.5,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1965",
+  "value": 10.5,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1964",
+  "value": 9,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1963",
+  "value": 9,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1962",
+  "value": 6.96166666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1961",
+  "value": 6.7,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1960",
+  "value": 6.635,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2025",
+  "value": 503.496832373272,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2024",
+  "value": 515.109771921403,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2023",
+  "value": 544.050775505632,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2022",
+  "value": 647.135817631363,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2021",
+  "value": 620.784720014081,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2020",
+  "value": 584.900854962304,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2019",
+  "value": 587.294595686124,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2018",
+  "value": 576.97250124808,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2017",
+  "value": 567.51309030978,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2016",
+  "value": 544.73936722902,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2015",
+  "value": 534.565769969278,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2014",
+  "value": 538.317200279058,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2013",
+  "value": 499.766832565284,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2012",
+  "value": 502.901461981567,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2011",
+  "value": 505.664239919355,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2010",
+  "value": 525.829200716846,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2009",
+  "value": 573.287956733231,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2008",
+  "value": 526.23551344086,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2007",
+  "value": 516.617390232975,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2006",
+  "value": 511.301817940348,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2005",
+  "value": 477.786741487455,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2004",
+  "value": 437.935,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2003",
+  "value": 398.662222222222,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2002",
+  "value": 359.81752688172,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2001",
+  "value": 328.870833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2000",
+  "value": 308.186666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1999",
+  "value": 285.684694833333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1998",
+  "value": 257.229166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1997",
+  "value": 232.5975,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1996",
+  "value": 207.689166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1995",
+  "value": 179.729166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1994",
+  "value": 157.066666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1993",
+  "value": 142.171666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1992",
+  "value": 134.506333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1991",
+  "value": 122.432416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1990",
+  "value": 91.5792916666666,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1989",
+  "value": 81.5042083333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1988",
+  "value": 75.8047333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1987",
+  "value": 62.7762,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1986",
+  "value": 55.9858916666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1985",
+  "value": 50.45335,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1984",
+  "value": 44.532683333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1983",
+  "value": 41.0941666656667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1982",
+  "value": 37.40666666575,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1981",
+  "value": 21.7633333325,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1980",
+  "value": 8.56999999908333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1979",
+  "value": 8.569999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1978",
+  "value": 8.569999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1977",
+  "value": 8.569999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1976",
+  "value": 8.569999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1975",
+  "value": 8.569999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1974",
+  "value": 7.929999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1973",
+  "value": 6.64675833233333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1972",
+  "value": 6.634999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1971",
+  "value": 6.62583333840625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1970",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1969",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1968",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1967",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1966",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1965",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1964",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1963",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1962",
+  "value": 6.625000005625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1961",
+  "value": 5.95166667161833,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1960",
+  "value": 5.615000004615,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2025",
+  "value": 61.9865666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2024",
+  "value": 59.5651333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2023",
+  "value": 56.1576,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2022",
+  "value": 55.1409916666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2021",
+  "value": 57.2211166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2020",
+  "value": 56.5245333333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2019",
+  "value": 51.2948583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2018",
+  "value": 49.5099928571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2017",
+  "value": 47.5343581962482,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2016",
+  "value": 46.0644439393939,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2015",
+  "value": 45.0454990740741,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2014",
+  "value": 43.5496726190476,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2013",
+  "value": 41.7945034252297,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2012",
+  "value": 39.3203008432258,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2011",
+  "value": 38.0875848668099,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2010",
+  "value": 36.8212918670815,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2009",
+  "value": 35.97186554526,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2008",
+  "value": 34.5293609573506,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2007",
+  "value": 33.1718705755495,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2006",
+  "value": 33.300035201723,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2005",
+  "value": 30.2828081770082,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2004",
+  "value": 41.9303145729387,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2003",
+  "value": 29.3699996161352,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2002",
+  "value": 17.5930436887674,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2001",
+  "value": 16.690961523126,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2000",
+  "value": 16.1814576782866,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1999",
+  "value": 15.834429906597,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1998",
+  "value": 14.7031108444695,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1997",
+  "value": 14.0059210526316,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1996",
+  "value": 12.8963492063492,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1995",
+  "value": 12.87,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1994",
+  "value": 12.6167803030303,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1993",
+  "value": 12.5,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1992",
+  "value": 12.5,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1991",
+  "value": 12.5759189640769,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1990",
+  "value": 8.5253,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1989",
+  "value": 6.34,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1988",
+  "value": 6.11251666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1987",
+  "value": 3.84475833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1986",
+  "value": 2.90433333325,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1985",
+  "value": 3.11260833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1984",
+  "value": 0.999999999583333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1983",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1982",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1981",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1980",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1979",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1978",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1977",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1976",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1975",
+  "value": 0.999999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1974",
+  "value": 0.9999999995,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1973",
+  "value": 0.999999999916667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1972",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1971",
+  "value": 0.999999999916667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1970",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1969",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1968",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1967",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1966",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1965",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1964",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1963",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1962",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1961",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1960",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2025",
+  "value": 159.096428305753,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2024",
+  "value": 156.439540115298,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2023",
+  "value": 154.158779031722,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2022",
+  "value": 153.426816475659,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2021",
+  "value": 150.790105943026,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2020",
+  "value": 142.402832756013,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2019",
+  "value": 133.31211833796,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2018",
+  "value": 128.87151906466,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2017",
+  "value": 127.964544179198,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2016",
+  "value": 125.095034603174,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2015",
+  "value": 116.969776646049,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2014",
+  "value": 110.934527811188,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2013",
+  "value": 100.39788320358,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2012",
+  "value": 88.7498023876452,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2011",
+  "value": 85.8934632022765,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2010",
+  "value": 87.1961463300915,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2009",
+  "value": 87.8941198106535,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2008",
+  "value": 72.7562034061521,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2007",
+  "value": 69.1921618494152,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2006",
+  "value": 65.7438575396826,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2005",
+  "value": 62.2807149440837,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2004",
+  "value": 61.1972,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2003",
+  "value": 57.74087375,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2002",
+  "value": 48.4159416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2001",
+  "value": 45.99625,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2000",
+  "value": 42.9857,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1999",
+  "value": 39.0435166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1998",
+  "value": 36.55,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1997",
+  "value": 35.4044666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1996",
+  "value": 37.1195583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1995",
+  "value": 35.1421166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1994",
+  "value": 33.0859333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1993",
+  "value": 24.94855,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1992",
+  "value": 22.96035,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1991",
+  "value": 12.115875,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1990",
+  "value": 7.184025,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1989",
+  "value": 5.74464166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1988",
+  "value": 5.48855416666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1987",
+  "value": 5.48666666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1986",
+  "value": 5.47783333325,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1985",
+  "value": 5.55855833316667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1984",
+  "value": 3.94280416641667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1983",
+  "value": 1.932217499,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1982",
+  "value": 1.781419999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1981",
+  "value": 1.781419999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1980",
+  "value": 1.781419999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1979",
+  "value": 1.76477833266667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1978",
+  "value": 1.41325833308333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1977",
+  "value": 0.90909,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1976",
+  "value": 0.90909,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1975",
+  "value": 0.90909,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1974",
+  "value": 0.90909,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1973",
+  "value": 0.90909,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1972",
+  "value": 0.76746,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1971",
+  "value": 0.832801749902778,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1970",
+  "value": 0.833332999833333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1969",
+  "value": 0.833333749833334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1968",
+  "value": 0.833333999833334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1967",
+  "value": 0.724206999545635,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1966",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1965",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1964",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1963",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1962",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1961",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1960",
+  "value": 0.714285999571429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1999",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2025",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2024",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2023",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2022",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2021",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2020",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2019",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2018",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2017",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2016",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2015",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2014",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2013",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2012",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2011",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2010",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2009",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2008",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2007",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2006",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2005",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2004",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2003",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2002",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2001",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2000",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1999",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1998",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1997",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1996",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1995",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1994",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1993",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1992",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1991",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1990",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1989",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1988",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1987",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1986",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1985",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1984",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1983",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1982",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1981",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1980",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1979",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1978",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1977",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1976",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1975",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1974",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1973",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1972",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1971",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1970",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1969",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1968",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1967",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1966",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1965",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1964",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1963",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1962",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1961",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1960",
+  "value": 1,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2025",
+  "value": 6.74884660621027,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2024",
+  "value": 6.75012324870591,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2023",
+  "value": 6.75026237934502,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2022",
+  "value": 6.75412896099475,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2021",
+  "value": 6.75853004916294,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2020",
+  "value": 6.75105268711505,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2019",
+  "value": 6.7543266828632,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2018",
+  "value": 6.77075089824606,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2017",
+  "value": 6.779525,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2016",
+  "value": 6.66896666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2015",
+  "value": 6.37744166666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2014",
+  "value": 6.40909457829793,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2013",
+  "value": 6.44262939764659,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2012",
+  "value": 6.42960265594542,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2011",
+  "value": 6.40930070568579,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2010",
+  "value": 6.37550833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2009",
+  "value": 6.32490833333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2008",
+  "value": 6.28943333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2007",
+  "value": 6.32803333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2006",
+  "value": 6.31228333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2005",
+  "value": 6.29955833333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2004",
+  "value": 6.29899166666666,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2003",
+  "value": 6.2951,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2002",
+  "value": 6.24868333333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2001",
+  "value": 6.23321666666666,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2000",
+  "value": 6.29979666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1999",
+  "value": 6.2989,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1998",
+  "value": 6.2983075,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1997",
+  "value": 6.25167833333334,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1996",
+  "value": 6.00506583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1995",
+  "value": 5.94779583333333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1994",
+  "value": 5.92492916666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1993",
+  "value": 5.35109666666667,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1992",
+  "value": 4.25,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1991",
+  "value": 4.25,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1990",
+  "value": 4.25,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1989",
+  "value": 4.25,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1988",
+  "value": 3.84375,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1987",
+  "value": 3.6,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1986",
+  "value": 3.6,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1985",
+  "value": 2.45,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1984",
+  "value": 2.39999999958333,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1983",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1982",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1981",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1980",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1979",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1978",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1977",
+  "value": 2.399999999,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1976",
+  "value": 2.4357864317,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1975",
+  "value": 2.1697975952,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1974",
+  "value": 2.05323091078878,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1973",
+  "value": 1.95922053743668,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1972",
+  "value": 1.92128071035725,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1971",
+  "value": 1.97487615196877,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1970",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1969",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1968",
+  "value": 2.000000001,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1967",
+  "value": 1.73809916726191,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1966",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1965",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1964",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1963",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1962",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1961",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "PA.NUS.FCRF",
+   "value": "Official exchange rate (LCU per US$, period average)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1960",
+  "value": 1.71429000071429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ }
+]

@@ -1,0 +1,8450 @@
+[
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2016",
+  "value": 125.033538406814,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2015",
+  "value": 117.244914872953,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2014",
+  "value": 107.0880919914,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2013",
+  "value": 99.559827434329,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2012",
+  "value": 94.7593476661489,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2011",
+  "value": 83.9301145649712,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2010",
+  "value": 79.8780502435835,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2009",
+  "value": 86.8542626598636,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2008",
+  "value": 71.0883224744168,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2007",
+  "value": 66.8016267359889,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2006",
+  "value": 62.3690591999655,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2005",
+  "value": 63.7916238643802,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1999",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "BB",
+   "value": "Barbados"
+  },
+  "countryiso3code": "BRB",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2024",
+  "value": 71.1965371181288,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2023",
+  "value": 71.2127173058669,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2022",
+  "value": 70.2611599864283,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2021",
+  "value": 80.4259616037106,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2020",
+  "value": 91.1566069449736,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2019",
+  "value": 72.7038785770822,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2018",
+  "value": 71.6505702481056,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2017",
+  "value": 66.7272478472146,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2016",
+  "value": 66.9071609125065,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2015",
+  "value": 53.2785874737167,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2014",
+  "value": 47.9761695160459,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2013",
+  "value": 67.1029119456429,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2012",
+  "value": 65.227695883164,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2011",
+  "value": 62.8601328222053,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2010",
+  "value": 72.4526699261111,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2009",
+  "value": 68.9990033374936,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2008",
+  "value": 65.2450803056946,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2003",
+  "value": 52.535419533379,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "2000",
+  "value": 17.7090216802298,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1999",
+  "value": 19.0653508704071,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1998",
+  "value": 5.40391549112143,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CO",
+   "value": "Colombia"
+  },
+  "countryiso3code": "COL",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2001",
+  "value": 39.3351115689137,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "2000",
+  "value": 38.5018490721033,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1999",
+  "value": 40.104802896386,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1998",
+  "value": 40.2051022803595,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1997",
+  "value": 30.179031009423,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1996",
+  "value": 30.0982106137644,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "CR",
+   "value": "Costa Rica"
+  },
+  "countryiso3code": "CRI",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1999",
+  "value": 16.4168038368014,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1997",
+  "value": 17.5702324990029,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1996",
+  "value": 20.9601830753133,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "DO",
+   "value": "Dominican Republic"
+  },
+  "countryiso3code": "DOM",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2020",
+  "value": 97.8664003352989,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2019",
+  "value": 85.7693465475141,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2017",
+  "value": 96.136723606367,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2016",
+  "value": 115.889445482292,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2015",
+  "value": 118.195358706681,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2014",
+  "value": 132.413890497651,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2013",
+  "value": 135.885094993632,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2012",
+  "value": 137.934669887058,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2011",
+  "value": 133.978459775192,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2010",
+  "value": 136.224334891016,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2009",
+  "value": 134.678769793404,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2008",
+  "value": 120.339824591656,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2007",
+  "value": 112.989990199089,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2006",
+  "value": 117.698811478754,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2005",
+  "value": 121.00247616654,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2004",
+  "value": 122.008068595913,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2003",
+  "value": 127.433255587593,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2002",
+  "value": 127.777467033609,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2001",
+  "value": 117.535033564029,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "2000",
+  "value": 98.3341557109605,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1999",
+  "value": 88.9636436472209,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1998",
+  "value": 81.6705597000984,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1997",
+  "value": 73.7000090787124,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1996",
+  "value": 72.2521952357009,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1995",
+  "value": 83.8611841763719,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1994",
+  "value": 94.6607428923022,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1993",
+  "value": 112.197175107941,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1992",
+  "value": 123.606951339215,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1991",
+  "value": 232.832210578933,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1990",
+  "value": 138.741327638319,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "JM",
+   "value": "Jamaica"
+  },
+  "countryiso3code": "JAM",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2021",
+  "value": 69.1116526047367,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2020",
+  "value": 77.6816372304702,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2019",
+  "value": 70.6884318194605,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1999",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "ZJ",
+   "value": "Latin America & Caribbean"
+  },
+  "countryiso3code": "LCN",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2007",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2006",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1999",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "PA",
+   "value": "Panama"
+  },
+  "countryiso3code": "PAN",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2023",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2022",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2021",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2020",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2019",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2018",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2017",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2016",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2015",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2014",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2013",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2012",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2011",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2010",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2009",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2008",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2007",
+  "value": 15.928004235045,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2006",
+  "value": 16.803206848237,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2005",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2004",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2003",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2002",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2001",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "2000",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1999",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1998",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1997",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1996",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1995",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1994",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1993",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1992",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1991",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1990",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1989",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1988",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1987",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1986",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1985",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1984",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1983",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1982",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1981",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1980",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1979",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1978",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1977",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1976",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1975",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1974",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1973",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1972",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1971",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1970",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1969",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1968",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1967",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1966",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1965",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1964",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1963",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1962",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1961",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ },
+ {
+  "indicator": {
+   "id": "GC.DOD.TOTL.GD.ZS",
+   "value": "Central government debt, total (% of GDP)"
+  },
+  "country": {
+   "id": "TT",
+   "value": "Trinidad and Tobago"
+  },
+  "countryiso3code": "TTO",
+  "date": "1960",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 1
+ }
+]

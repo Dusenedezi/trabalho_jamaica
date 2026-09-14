@@ -1,0 +1,179 @@
+iso3,pais,ano,valor
+BRB,Barbados,2000,0.0
+BRB,Barbados,2001,0.0
+BRB,Barbados,2002,0.0
+BRB,Barbados,2003,0.0
+BRB,Barbados,2004,0.0
+BRB,Barbados,2005,0.0
+BRB,Barbados,2006,0.0
+BRB,Barbados,2007,0.0
+BRB,Barbados,2008,0.0
+BRB,Barbados,2009,0.0
+BRB,Barbados,2010,0.0
+BRB,Barbados,2011,0.0
+BRB,Barbados,2012,0.0
+BRB,Barbados,2013,0.0
+BRB,Barbados,2014,0.971
+BRB,Barbados,2015,0.962
+BRB,Barbados,2016,1.905
+BRB,Barbados,2017,2.885
+BRB,Barbados,2018,2.885
+BRB,Barbados,2019,3.774
+BRB,Barbados,2020,6.604
+BRB,Barbados,2021,7.547
+BRB,Barbados,2022,7.339
+BRB,Barbados,2023,8.182
+BRB,Barbados,2024,9.009
+COL,Colômbia,2000,75.356
+COL,Colômbia,2001,74.154
+COL,Colômbia,2002,76.336
+COL,Colômbia,2003,78.615
+COL,Colômbia,2004,81.512
+COL,Colômbia,2005,80.016
+COL,Colômbia,2006,80.446
+COL,Colômbia,2007,81.383
+COL,Colômbia,2008,83.886
+COL,Colômbia,2009,72.687
+COL,Colômbia,2010,70.513
+COL,Colômbia,2011,81.75
+COL,Colômbia,2012,77.894
+COL,Colômbia,2013,69.215
+COL,Colômbia,2014,69.089
+COL,Colômbia,2015,63.345
+COL,Colômbia,2016,65.616
+COL,Colômbia,2017,79.1
+COL,Colômbia,2018,76.333
+COL,Colômbia,2019,69.485
+COL,Colômbia,2020,65.325
+COL,Colômbia,2021,75.071
+COL,Colômbia,2022,74.354
+COL,Colômbia,2023,66.121
+COL,Colômbia,2024,61.342
+COL,Colômbia,2025,77.015
+CRI,Costa Rica,2000,99.125
+CRI,Costa Rica,2001,98.551
+CRI,Costa Rica,2002,98.383
+CRI,Costa Rica,2003,97.808
+CRI,Costa Rica,2004,99.123
+CRI,Costa Rica,2005,96.703
+CRI,Costa Rica,2006,93.852
+CRI,Costa Rica,2007,91.982
+CRI,Costa Rica,2008,92.766
+CRI,Costa Rica,2009,95.13
+CRI,Costa Rica,2010,93.27
+CRI,Costa Rica,2011,91.179
+CRI,Costa Rica,2012,91.79
+CRI,Costa Rica,2013,88.224
+CRI,Costa Rica,2014,89.774
+CRI,Costa Rica,2015,98.979
+CRI,Costa Rica,2016,98.25
+CRI,Costa Rica,2017,99.645
+CRI,Costa Rica,2018,98.601
+CRI,Costa Rica,2019,99.124
+CRI,Costa Rica,2020,99.829
+CRI,Costa Rica,2021,100.0
+CRI,Costa Rica,2022,100.0
+CRI,Costa Rica,2023,99.915
+CRI,Costa Rica,2024,99.909
+CRI,Costa Rica,2025,109.863
+DOM,República Dominicana,2000,6.995
+DOM,República Dominicana,2001,6.698
+DOM,República Dominicana,2002,7.482
+DOM,República Dominicana,2003,9.591
+DOM,República Dominicana,2004,14.476
+DOM,República Dominicana,2005,15.442
+DOM,República Dominicana,2006,13.536
+DOM,República Dominicana,2007,12.766
+DOM,República Dominicana,2008,10.541
+DOM,República Dominicana,2009,11.782
+DOM,República Dominicana,2010,10.758
+DOM,República Dominicana,2011,10.787
+DOM,República Dominicana,2012,12.13
+DOM,República Dominicana,2013,13.036
+DOM,República Dominicana,2014,10.127
+DOM,República Dominicana,2015,7.889
+DOM,República Dominicana,2016,11.076
+DOM,República Dominicana,2017,15.833
+DOM,República Dominicana,2018,13.776
+DOM,República Dominicana,2019,12.547
+DOM,República Dominicana,2020,16.162
+DOM,República Dominicana,2021,17.779
+DOM,República Dominicana,2022,18.448
+DOM,República Dominicana,2023,17.264
+DOM,República Dominicana,2024,18.851
+DOM,República Dominicana,2025,23.753
+JAM,Jamaica,2000,4.579
+JAM,Jamaica,2001,3.387
+JAM,Jamaica,2002,2.155
+JAM,Jamaica,2003,2.507
+JAM,Jamaica,2004,3.172
+JAM,Jamaica,2005,3.614
+JAM,Jamaica,2006,3.733
+JAM,Jamaica,2007,4.95
+JAM,Jamaica,2008,6.147
+JAM,Jamaica,2009,7.5
+JAM,Jamaica,2010,7.639
+JAM,Jamaica,2011,8.716
+JAM,Jamaica,2012,10.209
+JAM,Jamaica,2013,9.324
+JAM,Jamaica,2014,9.859
+JAM,Jamaica,2015,10.28
+JAM,Jamaica,2016,12.249
+JAM,Jamaica,2017,11.644
+JAM,Jamaica,2018,14.646
+JAM,Jamaica,2019,12.716
+JAM,Jamaica,2020,13.785
+JAM,Jamaica,2021,13.333
+JAM,Jamaica,2022,12.918
+JAM,Jamaica,2023,12.159
+JAM,Jamaica,2024,12.602
+PAN,Panamá,2000,70.348
+PAN,Panamá,2001,49.219
+PAN,Panamá,2002,64.65
+PAN,Panamá,2003,50.987
+PAN,Panamá,2004,65.972
+PAN,Panamá,2005,64.261
+PAN,Panamá,2006,60.201
+PAN,Panamá,2007,57.74
+PAN,Panamá,2008,62.053
+PAN,Panamá,2009,56.729
+PAN,Panamá,2010,57.046
+PAN,Panamá,2011,52.685
+PAN,Panamá,2012,62.95
+PAN,Panamá,2013,57.877
+PAN,Panamá,2014,55.806
+PAN,Panamá,2015,65.34
+PAN,Panamá,2016,66.636
+PAN,Panamá,2017,71.83
+PAN,Panamá,2018,77.768
+PAN,Panamá,2019,52.749
+PAN,Panamá,2020,75.686
+PAN,Panamá,2021,78.365
+PAN,Panamá,2022,77.224
+PAN,Panamá,2023,60.641
+PAN,Panamá,2024,67.982
+TTO,Trinidad e Tobago,2000,0.366
+TTO,Trinidad e Tobago,2001,0.532
+TTO,Trinidad e Tobago,2002,0.532
+TTO,Trinidad e Tobago,2003,0.155
+TTO,Trinidad e Tobago,2004,0.311
+TTO,Trinidad e Tobago,2005,0.284
+TTO,Trinidad e Tobago,2006,0.418
+TTO,Trinidad e Tobago,2007,0.26
+TTO,Trinidad e Tobago,2008,0.259
+TTO,Trinidad e Tobago,2009,0.255
+TTO,Trinidad e Tobago,2010,0.0
+TTO,Trinidad e Tobago,2011,0.0
+TTO,Trinidad e Tobago,2012,0.0
+TTO,Trinidad e Tobago,2013,0.0
+TTO,Trinidad e Tobago,2014,0.0
+TTO,Trinidad e Tobago,2015,0.104
+TTO,Trinidad e Tobago,2016,0.106
+TTO,Trinidad e Tobago,2017,0.107
+TTO,Trinidad e Tobago,2018,0.108
+TTO,Trinidad e Tobago,2019,0.109
+TTO,Trinidad e Tobago,2020,0.108
+TTO,Trinidad e Tobago,2021,0.108
+TTO,Trinidad e Tobago,2022,0.105
+TTO,Trinidad e Tobago,2023,0.105
+TTO,Trinidad e Tobago,2024,0.105

@@ -1,0 +1,239 @@
+iso3,pais,ano,valor
+BRB,Barbados,1990,0.73
+BRB,Barbados,1991,0.732
+BRB,Barbados,1992,0.732
+BRB,Barbados,1993,0.735
+BRB,Barbados,1994,0.74
+BRB,Barbados,1995,0.744
+BRB,Barbados,1996,0.748
+BRB,Barbados,1997,0.752
+BRB,Barbados,1998,0.754
+BRB,Barbados,1999,0.756
+BRB,Barbados,2000,0.762
+BRB,Barbados,2001,0.763
+BRB,Barbados,2002,0.767
+BRB,Barbados,2003,0.771
+BRB,Barbados,2004,0.775
+BRB,Barbados,2005,0.779
+BRB,Barbados,2006,0.783
+BRB,Barbados,2007,0.79
+BRB,Barbados,2008,0.794
+BRB,Barbados,2009,0.798
+BRB,Barbados,2010,0.797
+BRB,Barbados,2011,0.794
+BRB,Barbados,2012,0.797
+BRB,Barbados,2013,0.798
+BRB,Barbados,2014,0.799
+BRB,Barbados,2015,0.8
+BRB,Barbados,2016,0.803
+BRB,Barbados,2017,0.804
+BRB,Barbados,2018,0.806
+BRB,Barbados,2019,0.808
+BRB,Barbados,2020,0.803
+BRB,Barbados,2021,0.803
+BRB,Barbados,2022,0.807
+BRB,Barbados,2023,0.811
+COL,Colômbia,1990,0.623
+COL,Colômbia,1991,0.63
+COL,Colômbia,1992,0.639
+COL,Colômbia,1993,0.645
+COL,Colômbia,1994,0.65
+COL,Colômbia,1995,0.655
+COL,Colômbia,1996,0.663
+COL,Colômbia,1997,0.67
+COL,Colômbia,1998,0.676
+COL,Colômbia,1999,0.673
+COL,Colômbia,2000,0.679
+COL,Colômbia,2001,0.681
+COL,Colômbia,2002,0.684
+COL,Colômbia,2003,0.691
+COL,Colômbia,2004,0.699
+COL,Colômbia,2005,0.711
+COL,Colômbia,2006,0.712
+COL,Colômbia,2007,0.724
+COL,Colômbia,2008,0.731
+COL,Colômbia,2009,0.736
+COL,Colômbia,2010,0.741
+COL,Colômbia,2011,0.747
+COL,Colômbia,2012,0.748
+COL,Colômbia,2013,0.76
+COL,Colômbia,2014,0.763
+COL,Colômbia,2015,0.767
+COL,Colômbia,2016,0.772
+COL,Colômbia,2017,0.774
+COL,Colômbia,2018,0.775
+COL,Colômbia,2019,0.777
+COL,Colômbia,2020,0.764
+COL,Colômbia,2021,0.762
+COL,Colômbia,2022,0.782
+COL,Colômbia,2023,0.788
+CRI,Costa Rica,1990,0.677
+CRI,Costa Rica,1991,0.682
+CRI,Costa Rica,1992,0.691
+CRI,Costa Rica,1993,0.696
+CRI,Costa Rica,1994,0.701
+CRI,Costa Rica,1995,0.706
+CRI,Costa Rica,1996,0.707
+CRI,Costa Rica,1997,0.712
+CRI,Costa Rica,1998,0.714
+CRI,Costa Rica,1999,0.717
+CRI,Costa Rica,2000,0.72
+CRI,Costa Rica,2001,0.726
+CRI,Costa Rica,2002,0.73
+CRI,Costa Rica,2003,0.736
+CRI,Costa Rica,2004,0.741
+CRI,Costa Rica,2005,0.748
+CRI,Costa Rica,2006,0.755
+CRI,Costa Rica,2007,0.76
+CRI,Costa Rica,2008,0.769
+CRI,Costa Rica,2009,0.773
+CRI,Costa Rica,2010,0.776
+CRI,Costa Rica,2011,0.783
+CRI,Costa Rica,2012,0.789
+CRI,Costa Rica,2013,0.795
+CRI,Costa Rica,2014,0.802
+CRI,Costa Rica,2015,0.803
+CRI,Costa Rica,2016,0.805
+CRI,Costa Rica,2017,0.809
+CRI,Costa Rica,2018,0.813
+CRI,Costa Rica,2019,0.821
+CRI,Costa Rica,2020,0.819
+CRI,Costa Rica,2021,0.817
+CRI,Costa Rica,2022,0.823
+CRI,Costa Rica,2023,0.833
+DOM,República Dominicana,1990,0.589
+DOM,República Dominicana,1991,0.594
+DOM,República Dominicana,1992,0.604
+DOM,República Dominicana,1993,0.611
+DOM,República Dominicana,1994,0.617
+DOM,República Dominicana,1995,0.624
+DOM,República Dominicana,1996,0.631
+DOM,República Dominicana,1997,0.639
+DOM,República Dominicana,1998,0.645
+DOM,República Dominicana,1999,0.652
+DOM,República Dominicana,2000,0.658
+DOM,República Dominicana,2001,0.663
+DOM,República Dominicana,2002,0.668
+DOM,República Dominicana,2003,0.67
+DOM,República Dominicana,2004,0.673
+DOM,República Dominicana,2005,0.683
+DOM,República Dominicana,2006,0.691
+DOM,República Dominicana,2007,0.698
+DOM,República Dominicana,2008,0.704
+DOM,República Dominicana,2009,0.707
+DOM,República Dominicana,2010,0.715
+DOM,República Dominicana,2011,0.721
+DOM,República Dominicana,2012,0.727
+DOM,República Dominicana,2013,0.731
+DOM,República Dominicana,2014,0.737
+DOM,República Dominicana,2015,0.747
+DOM,República Dominicana,2016,0.766
+DOM,República Dominicana,2017,0.77
+DOM,República Dominicana,2018,0.773
+DOM,República Dominicana,2019,0.771
+DOM,República Dominicana,2020,0.767
+DOM,República Dominicana,2021,0.762
+DOM,República Dominicana,2022,0.778
+DOM,República Dominicana,2023,0.776
+JAM,Jamaica,1990,0.662
+JAM,Jamaica,1991,0.662
+JAM,Jamaica,1992,0.664
+JAM,Jamaica,1993,0.664
+JAM,Jamaica,1994,0.664
+JAM,Jamaica,1995,0.665
+JAM,Jamaica,1996,0.664
+JAM,Jamaica,1997,0.663
+JAM,Jamaica,1998,0.662
+JAM,Jamaica,1999,0.662
+JAM,Jamaica,2000,0.659
+JAM,Jamaica,2001,0.668
+JAM,Jamaica,2002,0.672
+JAM,Jamaica,2003,0.668
+JAM,Jamaica,2004,0.684
+JAM,Jamaica,2005,0.687
+JAM,Jamaica,2006,0.696
+JAM,Jamaica,2007,0.704
+JAM,Jamaica,2008,0.711
+JAM,Jamaica,2009,0.711
+JAM,Jamaica,2010,0.708
+JAM,Jamaica,2011,0.711
+JAM,Jamaica,2012,0.711
+JAM,Jamaica,2013,0.711
+JAM,Jamaica,2014,0.712
+JAM,Jamaica,2015,0.713
+JAM,Jamaica,2016,0.714
+JAM,Jamaica,2017,0.715
+JAM,Jamaica,2018,0.715
+JAM,Jamaica,2019,0.716
+JAM,Jamaica,2020,0.711
+JAM,Jamaica,2021,0.703
+JAM,Jamaica,2022,0.718
+JAM,Jamaica,2023,0.72
+PAN,Panamá,1990,0.672
+PAN,Panamá,1991,0.674
+PAN,Panamá,1992,0.68
+PAN,Panamá,1993,0.686
+PAN,Panamá,1994,0.688
+PAN,Panamá,1995,0.69
+PAN,Panamá,1996,0.694
+PAN,Panamá,1997,0.701
+PAN,Panamá,1998,0.707
+PAN,Panamá,1999,0.712
+PAN,Panamá,2000,0.718
+PAN,Panamá,2001,0.723
+PAN,Panamá,2002,0.73
+PAN,Panamá,2003,0.735
+PAN,Panamá,2004,0.741
+PAN,Panamá,2005,0.746
+PAN,Panamá,2006,0.753
+PAN,Panamá,2007,0.763
+PAN,Panamá,2008,0.767
+PAN,Panamá,2009,0.77
+PAN,Panamá,2010,0.775
+PAN,Panamá,2011,0.781
+PAN,Panamá,2012,0.798
+PAN,Panamá,2013,0.799
+PAN,Panamá,2014,0.798
+PAN,Panamá,2015,0.803
+PAN,Panamá,2016,0.81
+PAN,Panamá,2017,0.815
+PAN,Panamá,2018,0.82
+PAN,Panamá,2019,0.824
+PAN,Panamá,2020,0.808
+PAN,Panamá,2021,0.819
+PAN,Panamá,2022,0.835
+PAN,Panamá,2023,0.839
+TTO,Trinidad e Tobago,1990,0.661
+TTO,Trinidad e Tobago,1991,0.665
+TTO,Trinidad e Tobago,1992,0.665
+TTO,Trinidad e Tobago,1993,0.667
+TTO,Trinidad e Tobago,1994,0.672
+TTO,Trinidad e Tobago,1995,0.677
+TTO,Trinidad e Tobago,1996,0.684
+TTO,Trinidad e Tobago,1997,0.692
+TTO,Trinidad e Tobago,1998,0.7
+TTO,Trinidad e Tobago,1999,0.708
+TTO,Trinidad e Tobago,2000,0.714
+TTO,Trinidad e Tobago,2001,0.721
+TTO,Trinidad e Tobago,2002,0.73
+TTO,Trinidad e Tobago,2003,0.74
+TTO,Trinidad e Tobago,2004,0.75
+TTO,Trinidad e Tobago,2005,0.756
+TTO,Trinidad e Tobago,2006,0.766
+TTO,Trinidad e Tobago,2007,0.774
+TTO,Trinidad e Tobago,2008,0.782
+TTO,Trinidad e Tobago,2009,0.782
+TTO,Trinidad e Tobago,2010,0.789
+TTO,Trinidad e Tobago,2011,0.792
+TTO,Trinidad e Tobago,2012,0.796
+TTO,Trinidad e Tobago,2013,0.802
+TTO,Trinidad e Tobago,2014,0.805
+TTO,Trinidad e Tobago,2015,0.808
+TTO,Trinidad e Tobago,2016,0.806
+TTO,Trinidad e Tobago,2017,0.806
+TTO,Trinidad e Tobago,2018,0.803
+TTO,Trinidad e Tobago,2019,0.805
+TTO,Trinidad e Tobago,2020,0.8
+TTO,Trinidad e Tobago,2021,0.796
+TTO,Trinidad e Tobago,2022,0.805
+TTO,Trinidad e Tobago,2023,0.807

@@ -1,0 +1,259 @@
+# Catálogo de séries — Atividade Monitorada 1 (Jamaica / energia solar e armazenamento)
+#
+# Tudo que é específico do país está NESTE arquivo: transform.py e os demais
+# scripts leem daqui o país, os comparadores, os nomes e a referência de
+# convergência. Para replicar em outro país, edita-se só o catálogo.
+#
+# Fontes suportadas:
+#   worldbank -> API v2 (source_id 2 = WDI, 3 = WGI, 63 = HCI)
+#   undp      -> CSV de séries temporais do HDR Data Center
+#   csv_url   -> qualquer CSV público por URL (IRENA, Ember, OWID...), com
+#                mapeamento de colunas e filtros declarados na entrada;
+#                'fator' (opcional) multiplica o valor (ex.: GW -> MW) e o
+#                período do catálogo (periodo.inicio/fim) é aplicado ao recorte
+#   manual    -> CSV mantido à mão em dados/manuais/, para dados que só
+#                existem em relatórios (tarifa, projetos); cada linha leva
+#                fonte, link e data de acesso
+
+pais: JAM
+
+# Pares caribenhos e centro-americanos de renda média + agregado regional do
+# Banco Mundial (LCN = América Latina e Caribe). Ajuste à vontade.
+comparadores: [DOM, TTO, BRB, CRI, PAN, COL, LCN]
+
+# Referência para a figura de convergência (valor do país como % desta).
+# DOM = República Dominicana (convergiu enquanto a Jamaica estagnou);
+# alternativa: LCN (média regional).
+referencia_convergencia: DOM
+
+nomes:
+  JAM: Jamaica
+  DOM: República Dominicana
+  TTO: Trinidad e Tobago
+  BRB: Barbados
+  CRI: Costa Rica
+  PAN: Panamá
+  COL: Colômbia
+  LCN: América Latina e Caribe
+
+periodo:
+  inicio: 1960
+  fim: 2025      # decisão de 2026-09-14: OWID e Ember já trazem 2025; o Banco Mundial devolve o que existir
+
+series:
+
+  # ---------------------------------------------------------------- PAÍS ----
+
+  - id: idh
+    bloco: pais
+    dimensao: "Nível de renda ou desenvolvimento"
+    fonte: undp
+    codigo: hdi
+    instituicao: "UNDP – Human Development Report Data Center"
+    link: "https://hdr.undp.org/data-center/documentation-and-downloads"
+    url_arquivo: "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv"
+    definicao: "Índice de Desenvolvimento Humano (média geométrica dos índices de saúde, educação e renda)"
+    unidade: "Índice 0–1"
+    ajuste: "Filtro para os países do grupo de comparação (o agregado LCN não existe nesta fonte); colunas hdi_AAAA em formato longo"
+
+  - id: pib_pc_ppp
+    bloco: pais
+    dimensao: "Crescimento ou convergência"
+    fonte: worldbank
+    codigo: NY.GDP.PCAP.PP.KD
+    source_id: 2
+    instituicao: "Banco Mundial – World Development Indicators"
+    link: "https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD"
+    definicao: "PIB per capita em paridade de poder de compra"
+    unidade: "US$ internacionais constantes de 2021"
+    ajuste: "Razão país/referência (x100) calculada em transform.py; referência definida em referencia_convergencia"
+
+  - id: pib_por_ocupado
+    bloco: pais
+    dimensao: "Produtividade ou transformação estrutural"
+    fonte: worldbank
+    codigo: SL.GDP.PCAP.EM.KD
+    source_id: 2
+    instituicao: "Banco Mundial – WDI (origem: ILO, modelagem ILOSTAT)"
+    link: "https://data.worldbank.org/indicator/SL.GDP.PCAP.EM.KD"
+    definicao: "PIB por pessoa ocupada (produtividade do trabalho)"
+    unidade: "US$ internacionais constantes de 2021 (PPP)"
+    ajuste: "Barras: último ano com dado para todos os países; índice base = primeiro ano comum"
+
+  - id: hci
+    bloco: pais
+    dimensao: "Capital humano, pobreza, desigualdade ou qualidade de vida"
+    fonte: worldbank
+    codigo: HD.HCI.OVRL
+    source_id: 63
+    instituicao: "Banco Mundial – Human Capital Index"
+    link: "https://data.worldbank.org/indicator/HD.HCI.OVRL"
+    definicao: "Human Capital Index: produtividade esperada aos 18 anos relativa ao benchmark de saúde e educação completas"
+    unidade: "Índice 0–1"
+    ajuste: "Nenhum; tabela com o ano mais recente. Só quatro anos (2010, 2017, 2018, 2020), não é série anual; Barbados e o agregado LCN não existem nesta fonte"
+
+  # 5ª dimensão — três candidatos no catálogo; o PDF usa um (ou combina em uma figura).
+  # Para a tese de investimento em solar, a dependência de energia importada é a ponte
+  # mais direta entre macro e setor; a dívida capta o ajuste fiscal jamaicano; o WGI
+  # capta criminalidade/segurança jurídica.
+  # DECISÃO (2026-09-14): o PDF usa energia_importada como quinta dimensão; divida_publica
+  # e wgi_rule_of_law permanecem no catálogo como apoio (figuras e tabelas continuam geradas).
+
+  - id: energia_importada
+    bloco: pais
+    dimensao: "Estabilidade macroeconômica, inserção internacional ou qualidade institucional"
+    fonte: worldbank
+    codigo: EG.IMP.CONS.ZS
+    source_id: 2
+    instituicao: "Banco Mundial – WDI (origem: IEA)"
+    link: "https://data.worldbank.org/indicator/EG.IMP.CONS.ZS"
+    definicao: "Importações líquidas de energia como % do uso de energia"
+    unidade: "%"
+    ajuste: "Quinta dimensão escolhida para o PDF (decisão de 2026-09-14). Nenhum ajuste. Cobertura conferida em 2026-09-14: Jamaica 1990–2022 (sem 2005–2007); Barbados sem dado; República Dominicana só 2012–2022; demais 1990–2022/2023. Valores negativos = exportadores líquidos de energia (Colômbia, Trinidad e Tobago, agregado LCN)"
+
+  - id: divida_publica
+    bloco: pais
+    dimensao: "Estabilidade macroeconômica, inserção internacional ou qualidade institucional"
+    fonte: worldbank
+    codigo: GC.DOD.TOTL.GD.ZS
+    source_id: 2
+    instituicao: "Banco Mundial – WDI (origem: FMI GFS)"
+    link: "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS"
+    definicao: "Dívida do governo central, total"
+    unidade: "% do PIB"
+    ajuste: "Nenhum. Cobertura no WDI conferida em 2026-09-14 e insuficiente para comparação: Jamaica 1990–2020 (sem 2018); Colômbia 1998–2024 com lacunas; Barbados 2005–2016; Costa Rica 1996–2001; República Dominicana 1996–1999; Trinidad e Tobago 2006–2007; Panamá sem dado; LCN 2019–2021. Alternativa proposta (não ativada): dívida bruta do governo geral do FMI WEO, GGXWDG_NGDP, ver bloco comentado abaixo"
+
+  # --- ALTERNATIVA PROPOSTA, NÃO ATIVADA (decisão do aluno): dívida bruta do governo
+  # geral, % do PIB, FMI World Economic Outlook (edição de abril de 2026). A API SDMX 2.1
+  # do FMI devolve CSV por GET, então o extrator csv_url serve sem código novo. Conferido
+  # em 2026-09-14: os sete países têm dados anuais (Jamaica 1999–2024 observados; o
+  # arquivo também traz projeções até 2031, e a coluna LATEST_ACTUAL_ANNUAL_DATA indica
+  # o último ano observado de cada país). O agregado LCN não existe nesse dataflow.
+  # Para ativar: descomentar o bloco; endPeriod=2024 já limita ao período do catálogo.
+  # - id: divida_bruta_weo
+  #   bloco: pais
+  #   dimensao: "Estabilidade macroeconômica, inserção internacional ou qualidade institucional"
+  #   fonte: csv_url
+  #   instituicao: "FMI – World Economic Outlook, abril de 2026 (API SDMX 2.1, data.imf.org)"
+  #   link: "https://data.imf.org/en/datasets/IMF.RES:WEO"
+  #   url_csv: "https://api.imf.org/external/sdmx/2.1/data/IMF.RES,WEO/JAM+DOM+TTO+BRB+CRI+PAN+COL.GGXWDG_NGDP.A?startPeriod=1990&endPeriod=2024&format=csv"
+  #   codigo: "GGXWDG_NGDP"
+  #   mapeamento: {pais: "COUNTRY", ano: "TIME_PERIOD", valor: "OBS_VALUE"}
+  #   tipo_pais: iso3
+  #   filtros: {INDICATOR: "GGXWDG_NGDP"}
+  #   definicao: "Dívida bruta do governo geral"
+  #   unidade: "% do PIB"
+  #   ajuste: "Anos posteriores ao último observado (LATEST_ACTUAL_ANNUAL_DATA) são projeções do FMI; Jamaica usa ano fiscal (FY2024/25). Sem agregado LCN"
+
+  - id: wgi_rule_of_law
+    bloco: pais
+    dimensao: "Estabilidade macroeconômica, inserção internacional ou qualidade institucional"
+    fonte: worldbank
+    codigo: GOV_WGI_RL.EST
+    source_id: 3
+    instituicao: "Banco Mundial – Worldwide Governance Indicators"
+    link: "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    definicao: "Rule of Law (estimativa)"
+    unidade: "Escore padronizado, aprox. −2,5 a 2,5"
+    ajuste: "Nenhum. Código atual da API (fonte 3) é GOV_WGI_RL.EST; o antigo RL.EST não existe mais na fonte 3 (só na fonte 57, WDI Database Archives). Sem dado em 1997, 1999 e 2001 (indicador bienal até 2002). O agregado LCN não existe no WGI"
+
+  # --------------------------------------------------------------- SETOR ----
+
+  - id: solar_capacidade
+    bloco: setor
+    dimensao: "Setor – tamanho e trajetória (capacidade solar instalada)"
+    fonte: csv_url
+    # Fonte primária: IRENA. Em 2026-09-14 a IRENA não oferecia URL de download direto
+    # em CSV: o IRENASTAT (PxWeb, pxweb.irena.org) só devolve CSV por requisição POST
+    # e o site irena.org (arquivo IRENA_Statistics_Extract_2026.xlsx) bloqueia acesso
+    # automatizado (HTTP 403). Usa-se a republicação do Our World in Data, conferida
+    # contra a API do IRENASTAT (ver campo ajuste).
+    instituicao: "IRENA – Renewable Energy Statistics 2026 (republicação: Our World in Data, grapher 'installed-solar-pv-capacity', processado a partir de IRENA_Statistics_Extract_2026.xlsx; atualização do OWID em 2026-07-28)"
+    link: "https://ourworldindata.org/grapher/installed-solar-pv-capacity"
+    url_csv: "https://ourworldindata.org/grapher/installed-solar-pv-capacity.csv"
+    codigo: "OWID solar__total_gw (IRENA: Solar energy, on-grid + off-grid)"
+    mapeamento: {pais: "Code", ano: "Year", valor: "Solar"}
+    tipo_pais: iso3            # iso3 | nome  (se 'nome', o extrator converte via nomes_fonte)
+    filtros: {}
+    fator: 1000                # o arquivo vem em GW; o extrator multiplica por 1.000 -> MW
+    definicao: "Capacidade instalada de geração solar (fotovoltaica; on-grid e off-grid)"
+    unidade: "MW"
+    ajuste: "Arquivo do OWID em GW, convertido para MW (x1.000, campo fator). A série do OWID é 'solar total' (fotovoltaica + solar térmica de concentração, CSP); na API do IRENASTAT (tabela Country_ELECCAP_2026_H1, consulta em 2026-09-14) a CSP é nula nos sete países e os valores do OWID coincidem com a soma PV on-grid + off-grid da IRENA em todos os anos (diferença máxima 0,01 MW; única exceção Costa Rica 2012: 2,27 vs 1,36 MW). Recorte ao período do catálogo (2025 é o último ano da fonte). Capacidade por habitante (kW/1.000 hab.) calculada em transform.py com SP.POP.TOTL"
+
+  - id: solar_geracao_share
+    bloco: setor
+    dimensao: "Setor – participação do solar na geração elétrica"
+    fonte: csv_url
+    instituicao: "Ember – Yearly Electricity Data (arquivo 'Yearly electricity data – Global (CSV)', versão de 2026-09-08; atualizado mensalmente)"
+    link: "https://ember-energy.org/data/yearly-electricity-data/"
+    url_csv: "https://files.ember-energy.org/public-downloads/generation/outputs/release_generation_yearly_global.csv"
+    codigo: "Electricity source = Solar; coluna 'Share of generation (%)'"
+    mapeamento: {pais: "ISO 3 code", ano: "Year", valor: "Share of generation (%)"}
+    tipo_pais: iso3
+    filtros: {"Electricity source": "Solar"}
+    definicao: "Participação da energia solar na geração elétrica"
+    unidade: "% da geração"
+    ajuste: "Em julho de 2026 o Ember mudou o formato: o arquivo anual passou a ter uma linha por área, ano e fonte ('Electricity source'), com as métricas em colunas; as colunas Category/Subcategory/Variable/Unit/Value do formato longo antigo não existem mais. Filtro 'Electricity source' = Solar; valor lido de 'Share of generation (%)'. O agregado 'Latin America and Caribbean' não tem código ISO no arquivo e fica de fora (LCN ausente). Recorte ao período do catálogo; 2025 só existe para Colômbia, Costa Rica e República Dominicana (dado preliminar)"
+
+  - id: renovaveis_geracao_share
+    bloco: setor
+    dimensao: "Setor – participação das renováveis na geração elétrica"
+    fonte: csv_url
+    instituicao: "Ember – Yearly Electricity Data (arquivo 'Yearly electricity data – Global (CSV)', versão de 2026-09-08; atualizado mensalmente)"
+    link: "https://ember-energy.org/data/yearly-electricity-data/"
+    url_csv: "https://files.ember-energy.org/public-downloads/generation/outputs/release_generation_yearly_global.csv"
+    codigo: "Electricity source = Renewables (agregado: hidro, eólica, solar, bioenergia e outras renováveis); coluna 'Share of generation (%)'"
+    mapeamento: {pais: "ISO 3 code", ano: "Year", valor: "Share of generation (%)"}
+    tipo_pais: iso3
+    filtros: {"Electricity source": "Renewables"}
+    definicao: "Participação das renováveis na geração elétrica"
+    unidade: "% da geração"
+    ajuste: "Mesmo arquivo da série anterior, outro filtro ('Electricity source' = Renewables, linha agregada). Recorte ao período do catálogo. Atenção: Costa Rica 2025 = 109,9% porque o Ember registra 'Other fossil' negativo (-1,15 TWh) nesse ano preliminar; valor mantido como na fonte e sinalizado em verificacao.txt"
+
+  - id: tarifa_eletricidade
+    bloco: setor
+    dimensao: "Setor – característica relevante para investimento (custo da eletricidade)"
+    fonte: manual
+    arquivo: dados/manuais/tarifa_eletricidade.csv
+    instituicao: "MSETT (Ministry of Energy, Transport and Telecommunications da Jamaica) – Energy Division, 'Jamaica Energy Statistics', tabela 'JPS Rate Charges' (dados da JPS); 2015 do IRP 2018 (MSET). OUR usada como conferência"
+    link: "https://www.mset.gov.jm/documents/jamaica-energy-statistics/"
+    codigo: "—"
+    definicao: "Tarifa média de eletricidade da JPS, todas as classes (inclui as parcelas fuel e non-fuel); tarifa residencial (Rate 10) em coluna adicional, em J$/kWh"
+    unidade: "US$ por kWh"
+    ajuste: "Transcrito das edições 2019–2025 de Jamaica Energy Statistics (MSETT), com edição, página, link e data de acesso em cada linha. US$/kWh como publicado pela fonte (conversão feita pelo MSETT, arredondada a 2 casas); valor original em J$/kWh (edições até 2024 publicam em J¢/kWh, dividido por 100). 2025 é preliminar. 2015 vem do IRP 2018 (p. 14). Conversão própria em transform.py (tarifa_eletricidade_usd.csv): J$/kWh dividido pelo câmbio médio anual do WDI (PA.NUS.FCRF, série auxiliar cambio_jmd_usd), gerando a residencial em US$/kWh e a média do sistema recalculada para conferir o US$ publicado. Documentos da JPS (jpsco.com) inacessíveis em 2026-09-14 (bloqueio anti-bot); a Determinação 2019-2024 da OUR (p. 482) confirma a ordem de grandeza (J$34/kWh em 2018-19)"
+
+  - id: armazenamento_projetos
+    bloco: setor
+    dimensao: "Setor – armazenamento (projetos e capacidade)"
+    fonte: manual
+    arquivo: dados/manuais/armazenamento_projetos.csv
+    instituicao: "OUR (Determinação JPS Annual Review 2023), MSET (IRP 2022), GPE (Generation Procurement Entity); JPS via imprensa especializada (pv magazine, Gleaner) e JIS como apoio"
+    link: "https://our.org.jm/wp-content/uploads/2023/08/JPS-2023-Annual-Tariff-Review-Determination-Notice.pdf"
+    codigo: "—"
+    definicao: "Projetos de armazenamento em baterias (BESS) na Jamaica: nome, capacidade (MW/MWh), ano, status (operacional, em contratação, em licitação, planejado)"
+    unidade: "MW e MWh (valor = MWh)"
+    ajuste: "Tabela compilada; valor = MWh, potência na coluna mw; ano = comissionamento (operacional), operação prevista (contratação/licitação) ou ano do documento (plano). Cada linha traz fonte, link e data de acesso. O documento original da JPS sobre o BESS de 171,5 MWh não pôde ser lido (jpsco.com bloqueia acesso automatizado) e foi substituído por imprensa especializada. Não há série estatística internacional para armazenamento por país"
+
+  - id: populacao
+    bloco: auxiliar
+    dimensao: "Auxiliar – normalização"
+    fonte: worldbank
+    codigo: SP.POP.TOTL
+    source_id: 2
+    instituicao: "Banco Mundial – WDI"
+    link: "https://data.worldbank.org/indicator/SP.POP.TOTL"
+    definicao: "População total"
+    unidade: "Pessoas"
+    ajuste: "Usada apenas como denominador"
+
+  - id: cambio_jmd_usd
+    bloco: auxiliar
+    dimensao: "Auxiliar – conversão de moeda"
+    fonte: worldbank
+    codigo: PA.NUS.FCRF
+    source_id: 2
+    instituicao: "Banco Mundial – WDI (origem: FMI, International Financial Statistics)"
+    link: "https://data.worldbank.org/indicator/PA.NUS.FCRF"
+    definicao: "Taxa de câmbio oficial, média do período (moeda local por US$); para a Jamaica, J$ por US$"
+    unidade: "Moeda local por US$"
+    ajuste: "Usada apenas para converter a tarifa manual (J$/kWh) em US$/kWh em transform.py (tarifa_eletricidade_usd.csv). Baixada para todo o grupo, mas só a linha da Jamaica é usada"
