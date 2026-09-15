@@ -8,14 +8,11 @@ processamento/
   transform.py              derivados e figuras (lê o país e os comparadores do catálogo)
   verificar.py              resumo por série, sinalizações e conferência contra os brutos (verificacao.txt)
   gerar_tabelas.py          tabelas e fatos-chave em Markdown (01_...06_*.md e fontes.md em dados/processados/)
-  empacotar_entrega.py      monta <sobrenome>_jamaica_AM1.zip na pasta acima, sem .venv/, .git/ e __pycache__/
   extract/                  worldbank.py, undp.py, csv_url.py, manual.py
 dados/manuais/              CSVs compilados à mão (tarifa, projetos de armazenamento), com fonte, link e data em cada linha
 dados/brutos/               payloads originais com data no nome (não editar)
 dados/processados/          CSVs tidy, fontes.csv/fontes.md, log_extracao.csv, verificacao.txt, derivados e tabelas em Markdown
 figuras/                    PNGs para o PDF
-uso_de_ia_AM1.md            registro de uso de IA (fonte); uso_de_ia_AM1.docx e .pdf são gerados dele
-prompt_claude_code_AM1_jamaica.md   prompt dado ao Claude Code (também transcrito no registro de IA)
 ```
 
 
