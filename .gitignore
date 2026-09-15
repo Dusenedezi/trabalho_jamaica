@@ -1,3 +1,7 @@
 __pycache__/
 .venv/
 *.pyc
+/processamento/empacotador_entrega.py
+uso_de_ia_AM1.md
+uso_de_ia_AM1.docx
+uso_de_ia_AM1.pdf

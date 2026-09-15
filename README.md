@@ -1,9 +1,3 @@
-# AM1 — Jamaica / energia solar e armazenamento
-
-Pipeline reprodutível para a Atividade Monitorada 1 (Economias Emergentes, FGV EAESP), replicado do
-projeto Japão/tecnologia com três mudanças: país, comparadores, nomes e referência de convergência
-vivem em `config/series.yaml` (nada fixo no código); um extrator genérico de CSV por URL cobre
-IRENA/Ember; um extrator "manual" trata tabelas que só existem em relatórios locais.
 
 ## Estrutura
 
@@ -14,26 +8,18 @@ processamento/
   transform.py              derivados e figuras (lê o país e os comparadores do catálogo)
   verificar.py              resumo por série, sinalizações e conferência contra os brutos (verificacao.txt)
   gerar_tabelas.py          tabelas e fatos-chave em Markdown (01_...06_*.md e fontes.md em dados/processados/)
+  empacotar_entrega.py      monta <sobrenome>_jamaica_AM1.zip na pasta acima, sem .venv/, .git/ e __pycache__/
   extract/                  worldbank.py, undp.py, csv_url.py, manual.py
-dados/manuais/              CSVs compilados à mão (tarifa, projetos de armazenamento)
+dados/manuais/              CSVs compilados à mão (tarifa, projetos de armazenamento), com fonte, link e data em cada linha
 dados/brutos/               payloads originais com data no nome (não editar)
-dados/processados/          CSVs tidy + tabela de fontes + derivados
+dados/processados/          CSVs tidy, fontes.csv/fontes.md, log_extracao.csv, verificacao.txt, derivados e tabelas em Markdown
 figuras/                    PNGs para o PDF
-uso_de_ia_AM1.md            registro de uso de IA (vira PDF na entrega)
+uso_de_ia_AM1.md            registro de uso de IA (fonte); uso_de_ia_AM1.docx e .pdf são gerados dele
+prompt_claude_code_AM1_jamaica.md   prompt dado ao Claude Code (também transcrito no registro de IA)
 ```
 
-## Como rodar
 
-```bash
-python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-python processamento/run_all.py
-python processamento/verificar.py
-python processamento/transform.py
-python processamento/gerar_tabelas.py
-```
-
-## Estado do catálogo (sessão Claude Code de 2026-09-14)
+## Estado do catálogo 
 
 1. **IRENA (`solar_capacidade`)**: a IRENA não oferece URL de download direto em CSV (o IRENASTAT
    só responde CSV por POST e o irena.org bloqueia acesso automatizado). Usa-se a republicação do
@@ -62,15 +48,3 @@ python processamento/gerar_tabelas.py
 8. **Armazenamento**: a composição do HESS de Hunts Bay segue a OUR (21 MW de baterias + 3,5 MW de
    flywheel); a do IRP 2022 fica registrada como divergente na coluna `observacao`.
 
-## Correspondência com o enunciado
-
-| Exigência | Onde está |
-|---|---|
-| Definição, unidade, período, instituição, link, código, data de acesso, ajustes | `dados/processados/fontes.csv` (gerada) + colunas de proveniência nas tabelas manuais |
-| Dados brutos e processados | `dados/brutos/`, `dados/processados/` |
-| Código de processamento | `processamento/` |
-| Verificação (lacunas, escala, conferência contra brutos) | `dados/processados/verificacao.txt` (gerado por `verificar.py`) |
-| Tabelas prontas para o texto | `dados/processados/01_*.md` a `06_*.md`, `fontes.md` (gerados por `gerar_tabelas.py`) |
-| Registro de uso de IA | `uso_de_ia_AM1.md` → PDF |
-
-Na entrega, renomear a pasta para `sobrenome_jamaica_AM1` e compactar.
